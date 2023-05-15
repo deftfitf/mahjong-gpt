@@ -1,0 +1,18 @@
+logging:
+  log_file_name: log/app.log
+
+database:
+  name: database.db
+
+gpt:
+  token: xxx # ChatGPT Token
+  model: gpt-4
+  temperature: 1.0
+  max_tokens: 500
+  n: 1
+
+line_bot:
+  channel_access_token: xxx
+  channel_secret: xxx
+  default_rich_menu_id: xxx
+  default_rich_menu_img_path: img/button.png

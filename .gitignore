@@ -1,0 +1,5 @@
+/img/*.gif
+/img/*.png
+/.idea
+.DS_Store
+__pycache__/
